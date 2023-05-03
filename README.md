@@ -7,6 +7,7 @@ For this project I have used:
   * Django -
     * User authentication
     * User sessions
+    * User messaging and engagement with other users
     * DB models design and management
     * CRUD operations
     * Dynamic URL's
